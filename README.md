@@ -14,3 +14,4 @@ contract ChainMessage {
         message = _newMessage;
     }
 }
+Update contract logic
