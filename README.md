@@ -15,3 +15,4 @@ contract ChainMessage {
     }
 }
 Update contract logic
+Improve contract structure
