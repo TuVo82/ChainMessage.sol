@@ -16,3 +16,4 @@ contract ChainMessage {
 }
 Update contract logic
 Improve contract structure
+Add basic validation
