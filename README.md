@@ -17,3 +17,4 @@ contract ChainMessage {
 Update contract logic
 Improve contract structure
 Add basic validation
+Fix edge case handling
