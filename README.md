@@ -19,3 +19,4 @@ Improve contract structure
 Add basic validation
 Fix edge case handling
 contract structure
+Update documentation
